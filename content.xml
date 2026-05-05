@@ -1,0 +1,1032 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260505141522HA9M0N</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260505141522KONRJD</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Proyecto_SdA_Curiosidadesdelmundo_2ESO</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Curiosidades del mundo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>María del Carmen Fernández Fernández</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777983274633</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-moslc2pp-9vpgmftr1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación y descripción del proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moslc2pp-9vpgmftr1</odePageId>
+      <odeBlockId>block-1777968966326-omh6vquwf</odeBlockId>
+      <blockName>Comenzamos nuestro proyecto &quot;Curiosidades del mundo&quot;</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moslc2pp-9vpgmftr1</odePageId>
+          <odeBlockId>block-1777968966326-omh6vquwf</odeBlockId>
+          <odeIdeviceId>idevice-1777968966321-vwzddejtb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="3/4 semanas">3/4 semanas</span></dt><dd></dd></div><div class="inline"><dt><span title="Individual/Pequeño grupo">Individual/Pequeño grupo</span></dt><dd>2º ESO</dd></div></dl><p style="text-align: center;">Bienvenidos al proyecto "Curiosidades del mundo".</p>
+<p style="text-align: center;">A través de él, vais a descubrir diferentes culturas y lugares de nuestro planeta, aprendiendo cosas interesantes sobre ellos y comprendiendo por qué son importantes.</p>
+<p style="text-align: center;">Durante el trabajo, investigaréis un poco a través de internet, utilizando páginas seguras y fiables para encontrar información.</p>
+<p style="text-align: center;">Después de trabajar los contenidos en clase, deberéis prepararar una presentación individual utilizando la herramienta CANVA. Luego, la compartiréis con vuestros compañeros en clase mediante una exposición.</p>
+<p style="text-align: center;">Finalmente, vuestro trabajo se subirá a la plataforma del centro, en este caso Google Classroom, que ya conocéis, para que vuestros compañeros y vuestras familias puedan verlo.</p>
+<p style="text-align: center;">Con esta actividad vais a aprender sobre otras culturas sin necesidad de viajar, mejorar vuestras habilidades para comunicaros, usar herramientas digitales y trabajar en equipo de forma creativa.</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777968966321-vwzddejtb","textInfoDurationInput":"","textInfoDurationTextInput":"3/4 semanas","textInfoParticipantsInput":"2º ESO","textInfoParticipantsTextInput":"Individual/Pequeño grupo","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"3/4 semanas\">3/4 semanas</span></dt><dd></dd></div><div class=\"inline\"><dt><span title=\"Individual/Pequeño grupo\">Individual/Pequeño grupo</span></dt><dd>2º ESO</dd></div></dl><p style=\"text-align: center;\">Bienvenidos al proyecto \"Curiosidades del mundo\".</p>\n<p style=\"text-align: center;\">A través de él, vais a descubrir diferentes culturas y lugares de nuestro planeta, aprendiendo cosas interesantes sobre ellos y comprendiendo por qué son importantes.</p>\n<p style=\"text-align: center;\">Durante el trabajo, investigaréis un poco a través de internet, utilizando páginas seguras y fiables para encontrar información.</p>\n<p style=\"text-align: center;\">Después de trabajar los contenidos en clase, deberéis prepararar una presentación individual utilizando la herramienta CANVA. Luego, la compartiréis con vuestros compañeros en clase mediante una exposición.</p>\n<p style=\"text-align: center;\">Finalmente, vuestro trabajo se subirá a la plataforma del centro, en este caso Google Classroom, que ya conocéis, para que vuestros compañeros y vuestras familias puedan verlo.</p>\n<p style=\"text-align: center;\">Con esta actividad vais a aprender sobre otras culturas sin necesidad de viajar, mejorar vuestras habilidades para comunicaros, usar herramientas digitales y trabajar en equipo de forma creativa.</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moslc2pv-e566c0hi6</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Protección de datos</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moslc2pv-e566c0hi6</odePageId>
+      <odeBlockId>block-1777970125075-0yaw9bktz</odeBlockId>
+      <blockName>CIBERSEGURIDAD</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moslc2pv-e566c0hi6</odePageId>
+          <odeBlockId>block-1777970125075-0yaw9bktz</odeBlockId>
+          <odeIdeviceId>idevice-1777970125073-oz86pf3cu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><img src="{{context_path}}/content/resources/INFOGRAFÍA CIBERSEGURIDAD.pdf" alt="" width="NaN" height="NaN" style="display: block; margin-left: auto; margin-right: auto;" />Antes de comenzar el proyecto, es necesario que conozcas información importante para navegar de forma segura.</p>
+<p style="text-align: center;"><iframe width="600" height="300" src="{{context_path}}/content/resources/INFOGRAFÍA CIBERSEGURIDAD.pdf"></iframe></p>
+<p style="text-align: center;">Autoría: Mari Carmen Fernández<br />Licencia: CC BY-SA 4.0<br />Descripción: Infografía creada en CANVA sobre ciberseguridad elaborada para el proyecto.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777970125073-oz86pf3cu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/INFOGRAFÍA CIBERSEGURIDAD.pdf\" alt=\"\" width=\"NaN\" height=\"NaN\" style=\"display: block; margin-left: auto; margin-right: auto;\" />Antes de comenzar el proyecto, es necesario que conozcas información importante para navegar de forma segura.</p>\n<p style=\"text-align: center;\"><iframe width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/INFOGRAFÍA CIBERSEGURIDAD.pdf\"></iframe></p>\n<p style=\"text-align: center;\">Autoría: Mari Carmen Fernández<br />Licencia: CC BY-SA 4.0<br />Descripción: Infografía creada en CANVA sobre ciberseguridad elaborada para el proyecto.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moslc2pz-vdewfz9z6</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moslc2pz-vdewfz9z6</odePageId>
+      <odeBlockId>block-1777970916824-swtwkmdrn</odeBlockId>
+      <blockName>Infografía mediante CANVA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moslc2pz-vdewfz9z6</odePageId>
+          <odeBlockId>block-1777970916824-swtwkmdrn</odeBlockId>
+          <odeIdeviceId>idevice-1777970916820-90exflroc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;">En esta situación de aprendizaje, llamada “Curiosidades del mundo”, vais a crear una infografía digital utilizando la herramienta Canva.</p>
+<p style="text-align: center;">Con esta actividad aprenderéis a recoger información sobre diferentes lugares, culturas y curiosidades del mundo y a presentarla de forma visual, clara y atractiva. La infografía os ayudará a seleccionar las ideas más importantes, organizarlas y transformarlas en un trabajo final fácil de entender y llamativo.</p>
+<p style="text-align: center;">Canva os permitirá elegir entre muchas plantillas, imágenes, iconos y estilos, para que podáis personalizar vuestro trabajo según vuestros gustos y ritmo de aprendizaje. Además, es una herramienta sencilla de usar que os ayudará a mejorar vuestra competencia digital.</p>
+<p style="text-align: center;">A lo largo del proyecto, no solo investigaréis y aprenderéis contenidos nuevos, sino que también decidiréis cómo presentarlos de manera creativa. Así, seréis los protagonistas de vuestro propio aprendizaje.</p>
+<p style="text-align: center;">Finalmente, esta actividad os permitirá trabajar de forma activa, buscando información, organizándola y comunicándola a los demás, mientras desarrolláis vuestra creatividad y aumentáis vuestra motivación gracias al uso de recursos visuales.</p>
+<p style="text-align: center;"></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777970916820-90exflroc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\">En esta situación de aprendizaje, llamada “Curiosidades del mundo”, vais a crear una infografía digital utilizando la herramienta Canva.</p>\n<p style=\"text-align: center;\">Con esta actividad aprenderéis a recoger información sobre diferentes lugares, culturas y curiosidades del mundo y a presentarla de forma visual, clara y atractiva. La infografía os ayudará a seleccionar las ideas más importantes, organizarlas y transformarlas en un trabajo final fácil de entender y llamativo.</p>\n<p style=\"text-align: center;\">Canva os permitirá elegir entre muchas plantillas, imágenes, iconos y estilos, para que podáis personalizar vuestro trabajo según vuestros gustos y ritmo de aprendizaje. Además, es una herramienta sencilla de usar que os ayudará a mejorar vuestra competencia digital.</p>\n<p style=\"text-align: center;\">A lo largo del proyecto, no solo investigaréis y aprenderéis contenidos nuevos, sino que también decidiréis cómo presentarlos de manera creativa. Así, seréis los protagonistas de vuestro propio aprendizaje.</p>\n<p style=\"text-align: center;\">Finalmente, esta actividad os permitirá trabajar de forma activa, buscando información, organizándola y comunicándola a los demás, mientras desarrolláis vuestra creatividad y aumentáis vuestra motivación gracias al uso de recursos visuales.</p>\n<p style=\"text-align: center;\"></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moslc2q1-cgs0kgv1u</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Curación de contenidos</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moslc2q1-cgs0kgv1u</odePageId>
+      <odeBlockId>block-1777974362195-rbt4w4d8t</odeBlockId>
+      <blockName>Curación de contenidos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moslc2q1-cgs0kgv1u</odePageId>
+          <odeBlockId>block-1777974362195-rbt4w4d8t</odeBlockId>
+          <odeIdeviceId>idevice-1777974362193-v5j9xej35</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;">Para facilitaros el trabajo, he creado un symbaloo en el que se recogen varias herramientas y aplicaciones que os serán necesarias para la búsqueda de información y elaboración del proyecto. </p>
+<p style="text-align: center;">Además, os comparto las herramientas digitales que, como profesora, utilizo para poder evaluar vuestro proceso de enseñanza aprendizaje.</p>
+<p><br /></p>
+<p style="text-align: center;"><iframe width="930px" height="620px" frameborder="0" noresize="noresize" src="https://www.symbaloo.com/embed/curiosidades-del-mundo"></iframe>Recopilación de enlaces creado desde Symbaloo.</p>
+<p style="text-align: center;">Elaborado por Mari Carmen Fernández.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777974362193-v5j9xej35","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\">Para facilitaros el trabajo, he creado un symbaloo en el que se recogen varias herramientas y aplicaciones que os serán necesarias para la búsqueda de información y elaboración del proyecto. </p>\n<p style=\"text-align: center;\">Además, os comparto las herramientas digitales que, como profesora, utilizo para poder evaluar vuestro proceso de enseñanza aprendizaje.</p>\n<p><br /></p>\n<p style=\"text-align: center;\"><iframe width=\"930px\" height=\"620px\" frameborder=\"0\" noresize=\"noresize\" src=\"https://www.symbaloo.com/embed/curiosidades-del-mundo\"></iframe>Recopilación de enlaces creado desde Symbaloo.</p>\n<p style=\"text-align: center;\">Elaborado por Mari Carmen Fernández.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moslc2q1-cgs0kgv1u</odePageId>
+      <odeBlockId>block-1777974448056-4eomy94j8</odeBlockId>
+      <blockName>HERRAMIENTAS DOCENTES</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moslc2q1-cgs0kgv1u</odePageId>
+          <odeBlockId>block-1777974448056-4eomy94j8</odeBlockId>
+          <odeIdeviceId>idevice-1777974448054-xfw4xbjho</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/mcarmenff1989/recursos-y-herramientas-docentes-daiebmqhffy440s" size="3" width="600" height="500" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moslc2q4-9rzb39xi5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moslc2q4-9rzb39xi5</odePageId>
+      <odeBlockId>block-1777975487219-i9br5ok5k</odeBlockId>
+      <blockName>Planificación del proyecto por sesiones</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moslc2q4-9rzb39xi5</odePageId>
+          <odeBlockId>block-1777975487219-i9br5ok5k</odeBlockId>
+          <odeIdeviceId>idevice-1777975487218-jj8f7ea95</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;">En esta sección encontrarás una línea temporal con la planificación del proyecto. Aquí podrás ver de forma ordenada todas las actividades que vamos a realizar y cuándo las haremos. Te servirá como guía para organizarte mejor y saber qué tienes que hacer en cada momento.</p>
+<p style="text-align: center;"><iframe width="1000" height="500" src="{{context_path}}/content/resources/Línea temporal proyecto.pdf"></iframe></p>
+<p style="text-align: center;">Autoría: Mari Carmen Fernández<br />Licencia: CC BY-SA 4.0<br />Descripción: Infografía creada en CANVA.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777975487218-jj8f7ea95","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\">En esta sección encontrarás una línea temporal con la planificación del proyecto. Aquí podrás ver de forma ordenada todas las actividades que vamos a realizar y cuándo las haremos. Te servirá como guía para organizarte mejor y saber qué tienes que hacer en cada momento.</p>\n<p style=\"text-align: center;\"><iframe width=\"1000\" height=\"500\" src=\"{{context_path}}/content/resources/Línea temporal proyecto.pdf\"></iframe></p>\n<p style=\"text-align: center;\">Autoría: Mari Carmen Fernández<br />Licencia: CC BY-SA 4.0<br />Descripción: Infografía creada en CANVA.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moslc2q5-v2rdpn7er</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Criterios de evaluación</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moslc2q5-v2rdpn7er</odePageId>
+      <odeBlockId>block-1777975795861-jeg93onkc</odeBlockId>
+      <blockName>¿Qué pretendemos conseguir?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moslc2q5-v2rdpn7er</odePageId>
+          <odeBlockId>block-1777975795861-jeg93onkc</odeBlockId>
+          <odeIdeviceId>idevice-1777975795859-vitukzt2y</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;">En esta sección encontrarás los criterios de evaluación del proyecto, tanto de Lengua como de Geografía. Gracias a ellos, podrás ver qué aspectos se van a tener en cuenta para valorar tu trabajo. Te ayudará a saber qué se espera de ti y cómo puedes hacerlo lo mejor posible.</p>
+<p><br /></p>
+<p><strong>CE.LCL.1.1. </strong>Interpretar el sentido global y la información relevante de textos orales y multimodales de cierta complejidad, identificando las ideas principales y secundarias, así como algunos elementos implícitos, y valorando de forma guiada los recursos verbales, no verbales y paraverbales.</p>
+<p><strong>CE.LCL.1.2.</strong> Comprender e interpretar el sentido global, la información relevante y la intención comunicativa de textos escritos y multimodales, aplicando estrategias de comprensión antes, durante y después de la lectura.</p>
+<p><strong>CE.LCL.4.1.</strong> Comprender e interpretar el sentido global, la estructura, la información más relevante y la intención del emisor de textos escritos y multimodales sencillos de diferentes ámbitos personales, educativos y sociales, que respondan a diferentes propósitos de lectura, realizando las inferencias necesarias que permitan reconstruir la relación entre sus partes, formular hipótesis acerca de la intención comunicativa que subyace a dichos textos, y reflexionar con sentido crítico sobre su forma y contenido.</p>
+<p><strong>CE.GEH.2.3.</strong> Incorporar y utilizar adecuadamente términos, conceptos y acontecimientos relacionados con la geografía, la historia y otras disciplinas de las ciencias sociales, a través de intervenciones orales, textos escritos y otros productos, mostrando planteamientos originales y propuestas creativas.<br /></p>
+<p><strong>CE.LCL.3.2.</strong> Participar de manera activa y adecuada en interacciones orales informales, en el trabajo en equipo y en situaciones orales formales de carácter dialogado, con actitudes de escucha activa y estrategias de cooperación conversacional y cortesía lingüística.<br /></p>
+<p><strong>CE.LCL.6.1.</strong> Localizar, seleccionar y contrastar información de manera dirigida procedente de diferentes fuentes, calibrando su fiabilidad y pertinencia en función de los objetivos de lectura; organizarla e integrarla en esquemas propios, y reelaborarla en diferentes tipos de textos.<br /></p>
+<p><strong>CE.GEH.1.1. </strong>Elaborar, expresar y presentar contenidos propios en forma de esquemas, tablas informativas y otros formatos mediante el desarrollo de estrategias sencillas de búsqueda, selección y tratamiento de la información relativas a procesos y acontecimientos relevantes del presente y del pasado.<br /></p>
+<p><strong>CE.LCL.3.1.</strong> Realizar narraciones y exposiciones orales sencillas con diferente grado de planificación sobre temas de interés personal, social y educativo ajustándose a las convenciones propias de los diversos géneros discursivos, con fluidez, coherencia, cohesión y el registro adecuado, en diferentes soportes y utilizando de manera eficaz recursos verbales y no verbales.<br /> <br /><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777975795859-vitukzt2y","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\">En esta sección encontrarás los criterios de evaluación del proyecto, tanto de Lengua como de Geografía. Gracias a ellos, podrás ver qué aspectos se van a tener en cuenta para valorar tu trabajo. Te ayudará a saber qué se espera de ti y cómo puedes hacerlo lo mejor posible.</p>\n<p><br /></p>\n<p><strong>CE.LCL.1.1. </strong>Interpretar el sentido global y la información relevante de textos orales y multimodales de cierta complejidad, identificando las ideas principales y secundarias, así como algunos elementos implícitos, y valorando de forma guiada los recursos verbales, no verbales y paraverbales.</p>\n<p><strong>CE.LCL.1.2.</strong> Comprender e interpretar el sentido global, la información relevante y la intención comunicativa de textos escritos y multimodales, aplicando estrategias de comprensión antes, durante y después de la lectura.</p>\n<p><strong>CE.LCL.4.1.</strong> Comprender e interpretar el sentido global, la estructura, la información más relevante y la intención del emisor de textos escritos y multimodales sencillos de diferentes ámbitos personales, educativos y sociales, que respondan a diferentes propósitos de lectura, realizando las inferencias necesarias que permitan reconstruir la relación entre sus partes, formular hipótesis acerca de la intención comunicativa que subyace a dichos textos, y reflexionar con sentido crítico sobre su forma y contenido.</p>\n<p><strong>CE.GEH.2.3.</strong> Incorporar y utilizar adecuadamente términos, conceptos y acontecimientos relacionados con la geografía, la historia y otras disciplinas de las ciencias sociales, a través de intervenciones orales, textos escritos y otros productos, mostrando planteamientos originales y propuestas creativas.<br /></p>\n<p><strong>CE.LCL.3.2.</strong> Participar de manera activa y adecuada en interacciones orales informales, en el trabajo en equipo y en situaciones orales formales de carácter dialogado, con actitudes de escucha activa y estrategias de cooperación conversacional y cortesía lingüística.<br /></p>\n<p><strong>CE.LCL.6.1.</strong> Localizar, seleccionar y contrastar información de manera dirigida procedente de diferentes fuentes, calibrando su fiabilidad y pertinencia en función de los objetivos de lectura; organizarla e integrarla en esquemas propios, y reelaborarla en diferentes tipos de textos.<br /></p>\n<p><strong>CE.GEH.1.1. </strong>Elaborar, expresar y presentar contenidos propios en forma de esquemas, tablas informativas y otros formatos mediante el desarrollo de estrategias sencillas de búsqueda, selección y tratamiento de la información relativas a procesos y acontecimientos relevantes del presente y del pasado.<br /></p>\n<p><strong>CE.LCL.3.1.</strong> Realizar narraciones y exposiciones orales sencillas con diferente grado de planificación sobre temas de interés personal, social y educativo ajustándose a las convenciones propias de los diversos géneros discursivos, con fluidez, coherencia, cohesión y el registro adecuado, en diferentes soportes y utilizando de manera eficaz recursos verbales y no verbales.<br /> <br /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moslc2q7-831fy4sua</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moslc2q7-831fy4sua</odePageId>
+      <odeBlockId>block-1777975926895-oesuggmon</odeBlockId>
+      <blockName>Herramientas para evaluar</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moslc2q7-831fy4sua</odePageId>
+          <odeBlockId>block-1777975926895-oesuggmon</odeBlockId>
+          <odeIdeviceId>idevice-1777975926892-kal4wp1op</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;">En esta sección encontrarás los instrumentos de evaluación que vamos a utilizar en el proyecto. Aquí podrás ver cómo se valorará tu trabajo. Te servirá para entender mejor cómo se te va a evaluar y qué debes tener en cuenta para hacerlo bien.</p>
+<p style="text-align: center;">En primer lugar, usaremos una rúbrica de evaluación que recoge diferentes ítems para valorar los criterios anteriormente expuestos, con una escala de valoración del 1 al 4.</p>
+<p style="text-align: center;"><iframe width="600" height="300" src="{{context_path}}/content/resources/RÚBRICA CURIOSIDADES.pdf"></iframe></p>
+<p style="text-align: center;">Autoría: Mari Carmen Fernández<br />Licencia: CC BY-SA 4.0<br /><br /></p>
+<p style="text-align: center;">Además, vosotros también valoraréis vuestro trabajo mediante la diana de autoevaluación. Es una herramienta que te ayudará a reflexionar sobre tu trabajo de forma visual.</p>
+<p style="text-align: center;">La diana está dividida en partes, y cada una corresponde a un aspecto del proyecto (por ejemplo: trabajo en equipo, presentación, uso de la información, creatividad…). En cada parte tendrás que marcar hasta dónde crees que has llegado, desde el centro (necesito mejorar) hasta el borde (lo he hecho muy bien).</p>
+<p style="text-align: center;">Después, podrás ver de forma clara cuáles son tus puntos fuertes y en qué puedes mejorar. Esto te ayudará a aprender mejor y a seguir avanzando en tu trabajo.</p>
+<p style="text-align: center;"><iframe width="300" height="150" src="{{context_path}}/content/resources/DIANA CURIOSIDADES.pdf"></iframe></p>
+<p style="text-align: center;">Autoría: Mari Carmen Fernández<br />Licencia: CC BY-SA 4.0<br />Descripción: Infografía creada en CANVA.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777975926892-kal4wp1op","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\">En esta sección encontrarás los instrumentos de evaluación que vamos a utilizar en el proyecto. Aquí podrás ver cómo se valorará tu trabajo. Te servirá para entender mejor cómo se te va a evaluar y qué debes tener en cuenta para hacerlo bien.</p>\n<p style=\"text-align: center;\">En primer lugar, usaremos una rúbrica de evaluación que recoge diferentes ítems para valorar los criterios anteriormente expuestos, con una escala de valoración del 1 al 4.</p>\n<p style=\"text-align: center;\"><iframe width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/RÚBRICA CURIOSIDADES.pdf\"></iframe></p>\n<p style=\"text-align: center;\">Autoría: Mari Carmen Fernández<br />Licencia: CC BY-SA 4.0<br /><br /></p>\n<p style=\"text-align: center;\">Además, vosotros también valoraréis vuestro trabajo mediante la diana de autoevaluación. Es una herramienta que te ayudará a reflexionar sobre tu trabajo de forma visual.</p>\n<p style=\"text-align: center;\">La diana está dividida en partes, y cada una corresponde a un aspecto del proyecto (por ejemplo: trabajo en equipo, presentación, uso de la información, creatividad…). En cada parte tendrás que marcar hasta dónde crees que has llegado, desde el centro (necesito mejorar) hasta el borde (lo he hecho muy bien).</p>\n<p style=\"text-align: center;\">Después, podrás ver de forma clara cuáles son tus puntos fuertes y en qué puedes mejorar. Esto te ayudará a aprender mejor y a seguir avanzando en tu trabajo.</p>\n<p style=\"text-align: center;\"><iframe width=\"300\" height=\"150\" src=\"{{context_path}}/content/resources/DIANA CURIOSIDADES.pdf\"></iframe></p>\n<p style=\"text-align: center;\">Autoría: Mari Carmen Fernández<br />Licencia: CC BY-SA 4.0<br />Descripción: Infografía creada en CANVA.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moslc2q9-zbc3oewfg</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moslc2q9-zbc3oewfg</odePageId>
+      <odeBlockId>block-1777977250714-6uyciucuq</odeBlockId>
+      <blockName>Guía didáctica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moslc2q9-zbc3oewfg</odePageId>
+          <odeBlockId>block-1777977250714-6uyciucuq</odeBlockId>
+          <odeIdeviceId>idevice-1777977250711-qgbalkkyp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><embed width="600" height="300" src="{{context_path}}/content/resources/6.1. Asociamos tareas a Criterios de evaluación_.docx.pdf" type="application/pdf"></embed></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777977250711-qgbalkkyp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><embed width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/6.1. Asociamos tareas a Criterios de evaluación_.docx.pdf\" type=\"application/pdf\"></embed></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moslc2qa-lx461ty0d</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos y descarga</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moslc2qa-lx461ty0d</odePageId>
+      <odeBlockId>block-1777977588516-g8mtv9y3y</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moslc2qa-lx461ty0d</odePageId>
+          <odeBlockId>block-1777977588516-g8mtv9y3y</odeBlockId>
+          <odeIdeviceId>idevice-1777977588513-rsmwrig2s</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Autoría</strong><br />María del Carmen Fernández Fernández</p>
+<p><strong>Descripción</strong><br />Este recurso educativo forma parte de la situación de aprendizaje “Curiosidades del mundo”, diseñada para el alumnado de [curso].<br />Tiene como objetivo trabajar el conocimiento de diferentes culturas, el uso de herramientas digitales y el desarrollo de habilidades comunicativas y de trabajo cooperativo.</p>
+<p><strong>Licencia de uso</strong><br />Este recurso se comparte bajo licencia:</p>
+<p>Creative Commons BY-SA 4.0</p>
+<p>Esto significa que puede ser utilizado, adaptado y compartido, siempre que se reconozca la autoría y se mantenga la misma licencia.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777977588513-rsmwrig2s","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Autoría</strong><br />María del Carmen Fernández Fernández</p>\n<p><strong>Descripción</strong><br />Este recurso educativo forma parte de la situación de aprendizaje “Curiosidades del mundo”, diseñada para el alumnado de [curso].<br />Tiene como objetivo trabajar el conocimiento de diferentes culturas, el uso de herramientas digitales y el desarrollo de habilidades comunicativas y de trabajo cooperativo.</p>\n<p><strong>Licencia de uso</strong><br />Este recurso se comparte bajo licencia:</p>\n<p>Creative Commons BY-SA 4.0</p>\n<p>Esto significa que puede ser utilizado, adaptado y compartido, siempre que se reconozca la autoría y se mantenga la misma licencia.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
